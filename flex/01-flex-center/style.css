@@ -13,5 +13,7 @@
   border: 6px solid maroon;
   width: 80px;
   height: 80px;
+
   margin: auto;
+  /* can also center by centering both horizonal and vertical axis i.e. align-items: center and justify-content: center
 }
